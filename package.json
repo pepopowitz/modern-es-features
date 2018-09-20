@@ -1,0 +1,15 @@
+{
+  "name": "modern-es-features",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Some exercises for learning modern ES/JavaScript features",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "Steven J Hicks",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
