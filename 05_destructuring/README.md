@@ -15,3 +15,4 @@
   * destructure (array)
 * greetDinosaur
   * default values
+* destructuring require()
